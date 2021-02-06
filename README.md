@@ -1,2 +1,2 @@
 # JavaScript
-Prime prove con JS
+Code written in JS by LFB
